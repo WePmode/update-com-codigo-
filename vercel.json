@@ -1,1 +1,0 @@
-{"version": 2, "builds": [{ "src": "uploader-com-codigo.js", "use": "@vercel/node" }], "routes": [{ "src": "/(.*)", "dest": "uploader-com-codigo.js" }] }
