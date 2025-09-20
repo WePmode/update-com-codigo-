@@ -1,0 +1,1 @@
+{\n  "name": "wepmode",\n  "version": "1.0.0",\n  "scripts": {\n    "build": "echo 'No build script'"\n  },\n  "dependencies": {},\n  "devDependencies": {}\n}
